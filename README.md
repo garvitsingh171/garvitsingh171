@@ -38,8 +38,10 @@ I’ve chosen this path not just to earn a degree, but to become someone who can
 ---
 
 ## 📊 GitHub Stats  
-![Garvit's GitHub stats](https://github-readme-stats.vercel.app/api?username=garvitsingh171&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garvitsingh171&layout=compact&theme=tokyonight&cache_seconds=1800&v=1)
+
+![Garvit's GitHub stats](https://github-readme-stats.vercel.app/api?username=garvitsingh171&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=86400)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garvitsingh171&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
