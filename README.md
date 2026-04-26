@@ -1,7 +1,7 @@
 <!-- 
   👤 Garvit Singh | Full Stack Developer | Software Product Engineer
   🎓 Computer Science Engineering @ Kalvium – JECRC University, Jaipur
-  🔧 Keywords: Full Stack Developer, React Developer, Node.js, MongoDB, PostgreSQL, Prisma, Docker, REST API, WebSockets, Python, JavaScript, TypeScript, Open to Internships, MERN Stack, Jaipur Developer
+  🔧 Full Stack Developer | React | Node.js | MongoDB | PostgreSQL | Prisma | Docker | REST API | WebSockets | Python | JavaScript | TypeScript
   📫 garvitsingh171@gmail.com | github.com/garvitsingh171 | linkedin.com/in/garvitsingh171
 -->
 
@@ -11,7 +11,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=764BA2&center=true&vCenter=true&width=680&lines=Building+full-stack+products+end-to-end+%F0%9F%9A%80;Designing+scalable+REST+APIs+%26+real-time+systems+%E2%9A%A1;Turning+complex+problems+into+clean+code+%F0%9F%A7%A9;Open+to+internships+%E2%80%94+let%E2%80%99s+build+something+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=764BA2&center=true&vCenter=true&width=680&lines=Building+full-stack+products+that+work+in+the+real+world;Writing+clean+frontend+and+backend+code;Learning+DSA%2C+system+design%2C+and+good+engineering+habits;Open+to+internships+and+serious+projects)](https://git.io/typing-svg)
 
 <br/>
 
@@ -36,28 +36,28 @@
 🎓 &nbsp;**Kalvium @ JECRC University**, Jaipur  
 📚 &nbsp;CSE — Software Product Engineering  
 📍 &nbsp;Jaipur, Rajasthan, India  
-🟢 &nbsp;**Actively seeking internship opportunities**
+🟢 &nbsp;**Open to internship opportunities**
 
 <br/>
 
-> *"I don't just write code — I engineer experiences,*  
-> *architect systems, and ship products that matter."*
+> I like building things that are useful, readable, and easy to maintain.  
+> I take ownership, keep people aligned, and finish what I start.
 
 </td>
 <td width="48%" valign="top">
 
 **⚡ Currently focused on**
 
-🔨 &nbsp;Shipping full-stack side projects  
-🧠 &nbsp;Mastering DSA on LeetCode  
-🎯 &nbsp;Landing my first tech internship  
-📡 &nbsp;Exploring system design & scalability  
-🤝 &nbsp;Open source contributions  
+🔨 &nbsp;Building full-stack projects  
+🧠 &nbsp;Practicing DSA consistently  
+🎯 &nbsp;Getting my first tech internship  
+📡 &nbsp;Learning backend fundamentals and scaling basics  
+🤝 &nbsp;Contributing to open source when I can  
 
 <br/>
 
 **🧭 Engineering Principle**  
-`Clarity > Cleverness. Systems > Hacks. Impact > Output.`
+`Keep it clear. Keep it working. Keep it honest.`
 
 </td>
 </tr>
@@ -67,26 +67,29 @@
 
 ## 🧑‍💻 About Me
 
-I'm enrolled in the **Software Product Engineering** track at **Kalvium @ JECRC University, Jaipur** — a program built for engineers who don't just want to code, but want to **build, ship, and lead**.
+I am studying **Software Product Engineering** at **Kalvium @ JECRC University, Jaipur**.
 
-My approach to engineering goes beyond syntax:
+I like code that does its job without noise. My focus is simple: build solid products, understand the logic behind them, and improve one piece at a time.
 
-- 🔭 I design with **systems thinking** — every component I write, I think about how it fits into the larger architecture
-- 🧩 I build **full-stack web applications** from database schema to pixel-perfect UI — owning the entire product surface
-- 📡 Hands-on with **real-time systems** (WebSockets), **relational & non-relational databases**, and **containerized deployments**
-- 🧠 Actively solving problems on **LeetCode** — not just for interviews, but to sharpen how I reason through complexity
-- 🤝 I believe great engineers are also great **communicators, collaborators, and product thinkers**
+A few things that describe how I work:
+
+- I like taking responsibility for the full flow, from UI to backend
+- I care about clean code, not just working code
+- I enjoy solving problems step by step instead of guessing
+- I stay consistent with DSA because it improves how I think
+- I am comfortable working with people, explaining ideas clearly, and keeping a team moving
+
+If you ask me what I am building toward, the answer is straightforward: I want to become a strong software engineer who can build real products and work well with a team.
 
 ---
 
 ## ⚡ Tech Stack
 
-> Technologies I reach for when I need to go from idea → deployed product.
+> Tools I use to build, test, and ship web applications.
 
 ### 🖼️ Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -109,7 +112,6 @@ My approach to engineering goes beyond syntax:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🚀 DevOps, Tools & Design
 
@@ -128,23 +130,23 @@ My approach to engineering goes beyond syntax:
 
 | Area | Focus |
 |---|---|
-| 🔨 **Side Projects** | Building full-stack apps that solve actual problems — not just portfolio filler |
-| 🧠 **DSA & Problem Solving** | Consistent practice on LeetCode — graphs, DP, system design |
-| 🌐 **Backend Architecture** | Scalable REST APIs, auth systems, real-time features with WebSockets |
-| 📦 **DevOps Basics** | Dockerizing apps, GitHub Actions CI/CD pipelines |
-| 🎨 **Product Design** | Figma wireframes → pixel-perfect React components |
+| 🔨 **Side Projects** | Building useful full-stack apps, not just demo projects |
+| 🧠 **DSA & Problem Solving** | Practicing regularly to improve speed and reasoning |
+| 🌐 **Backend Work** | REST APIs, auth, validation, and real-time features |
+| 📦 **DevOps Basics** | Docker, deployment flow, and cleaner development habits |
+| 🎨 **UI Thinking** | Turning ideas into clean and simple interfaces |
 
 ---
 
 ## 🧠 Beyond the Code
 
-I believe the best engineers aren't the ones who know the most syntax — they're the ones who **think clearest under pressure** and build the most **thoughtfully**.
+I care about more than syntax. Good engineers are usually the ones who stay calm, communicate well, and keep moving when things get messy.
 
-- 📖 **Voracious Learner** — From Paul Graham essays to system design docs, I read constantly. Curiosity isn't a trait, it's a habit.
-- 🏗️ **Product Thinker** — I always ask *"does this feature actually matter to the user?"* before writing a single line.
-- 🎙️ **Idea-Driven Conversations** — I thrive in discussions about tech trends, AI, startups, human psychology, and how systems shape society.
-- ✏️ **Design Sensibility** — I care about *how* things feel, not just how they function. Good UX is good empathy.
-- 🧩 **Puzzle-Brained** — Whether it's a LeetCode hard, a broken Docker container, or a race condition — I stay calm and work backward from the problem.
+- I like solving problems in a structured way
+- I pay attention to details because small mistakes create big problems later
+- I work better when expectations are clear
+- I value honesty in code, in communication, and in deadlines
+- I am comfortable leading when needed and stepping back when someone else has the better answer
 
 ---
 
@@ -184,7 +186,7 @@ I believe the best engineers aren't the ones who know the most syntax — they'r
 
 ## 📬 Let's Connect
 
-> I'm actively open to **internship opportunities**, **open source collaborations**, and any conversation that starts with a good problem statement.
+> I am open to internships, open source work, and serious conversations about building better products.
 
 <div align="center">
 
@@ -201,7 +203,7 @@ I believe the best engineers aren't the ones who know the most syntax — they'r
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=130&section=footer&text=Let's%20build%20something%20that%20matters.&fontSize=18&fontColor=ffffff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=130&section=footer&text=Building%20things%20that%20matter.&fontSize=18&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
 </div>
 
