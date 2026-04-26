@@ -1,8 +1,12 @@
-<!-- 
-  👤 Garvit Singh | Full Stack Developer | Software Product Engineer
-  🎓 Computer Science Engineering @ Kalvium – JECRC University, Jaipur
-  🔧 Full Stack Developer | React | Node.js | MongoDB | PostgreSQL | Prisma | Docker | REST API | WebSockets | Python | JavaScript | TypeScript
-  📫 garvitsingh171@gmail.com | github.com/garvitsingh171 | linkedin.com/in/garvitsingh171
+<!--
+  Full Stack Developer | Software Product Engineer | React Developer | Node.js Developer | MERN Stack Developer
+  Computer Science Engineering @ Kalvium – JECRC University, Jaipur, Rajasthan, India
+  Skills: React, TypeScript, JavaScript, Node.js, Express.js, MongoDB, PostgreSQL, Prisma, Docker, REST API, WebSockets
+  Contact: garvitsingh171@gmail.com | github.com/garvitsingh171 | linkedin.com/in/garvitsingh171
+  SEO Keywords:
+  Full Stack Developer India, React Developer Jaipur, Node.js Developer India, MERN Stack Developer India,
+  JavaScript Developer Rajasthan, Software Engineer Student India, JECRC University CSE, Kalvium Student Developer,
+  Open to Internship, Web Developer India, Backend Developer India
 -->
 
 <div align="center">
@@ -11,7 +15,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=764BA2&center=true&vCenter=true&width=680&lines=Building+full-stack+products+that+work+in+the+real+world;Writing+clean+frontend+and+backend+code;Learning+DSA%2C+system+design%2C+and+good+engineering+habits;Open+to+internships+and+serious+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=764BA2&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+from+India;React+%7C+Node.js+%7C+MongoDB+%7C+PostgreSQL;Software+Engineer+building+real+projects;Open+to+Internships+and+Development+Roles)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,40 +28,40 @@
 
 ---
 
-## 🪪 Who's Behind the Keyboard
+## 🪪 **About**
 
 <table width="100%">
 <tr>
 <td width="52%" valign="top">
 
-### Garvit Singh
-**Software Product Engineer · Full Stack Developer**
+### **Software Product Engineer · Full Stack Developer**
 
-🎓 &nbsp;**Kalvium @ JECRC University**, Jaipur  
-📚 &nbsp;CSE — Software Product Engineering  
-📍 &nbsp;Jaipur, Rajasthan, India  
-🟢 &nbsp;**Open to internship opportunities**
+| Info | Details |
+|---|---|
+| 🎓 Education | **Kalvium @ JECRC University** |
+| 📚 Degree | **Computer Science Engineering** |
+| 📍 Location | **Jaipur, Rajasthan, India** |
+| 💼 Status | **Open to Internships** |
 
-<br/>
-
-> I like building things that are useful, readable, and easy to maintain.  
-> I take ownership, keep people aligned, and finish what I start.
+> **Full Stack Developer from India focused on building clean, scalable, and useful software products.**
 
 </td>
+
 <td width="48%" valign="top">
 
-**⚡ Currently focused on**
+### **Current Focus**
 
-🔨 &nbsp;Building full-stack projects  
-🧠 &nbsp;Practicing DSA consistently  
-🎯 &nbsp;Getting my first tech internship  
-📡 &nbsp;Learning backend fundamentals and scaling basics  
-🤝 &nbsp;Contributing to open source when I can  
+- 🔨 Building Full Stack Projects  
+- 🧠 Practicing DSA & Problem Solving  
+- 🌐 Learning Backend Architecture  
+- 📦 Docker & Deployment  
+- 🤝 Teamwork & Leadership Skills  
 
-<br/>
+### **Work Style**
 
-**🧭 Engineering Principle**  
-`Keep it clear. Keep it working. Keep it honest.`
+`Clear Thinking > Noise`  
+`Execution > Excuses`  
+`Consistency > Motivation`
 
 </td>
 </tr>
@@ -65,29 +69,32 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 **About Me**
 
-I am studying **Software Product Engineering** at **Kalvium @ JECRC University, Jaipur**.
+I am a **Software Product Engineering student** at **Kalvium @ JECRC University, Jaipur**.
 
-I like code that does its job without noise. My focus is simple: build solid products, understand the logic behind them, and improve one piece at a time.
+My focus is to become a strong **Software Engineer** with skills in **Full Stack Web Development**, **Problem Solving**, **System Thinking**, and **Leadership**.
 
-A few things that describe how I work:
+### **What describes me best**
 
-- I like taking responsibility for the full flow, from UI to backend
-- I care about clean code, not just working code
-- I enjoy solving problems step by step instead of guessing
-- I stay consistent with DSA because it improves how I think
-- I am comfortable working with people, explaining ideas clearly, and keeping a team moving
+- **I take ownership** of tasks and complete what I start  
+- **I stay calm under pressure** and solve problems logically  
+- **I communicate clearly** with teammates and groups  
+- **I learn fast** and improve continuously  
+- **I lead when needed** and support when required  
+- **I value discipline, consistency, and reliability**
 
-If you ask me what I am building toward, the answer is straightforward: I want to become a strong software engineer who can build real products and work well with a team.
+### **Career Goal**
+
+To become a **high-value Full Stack Software Engineer** who builds products, solves real problems, and adds value to strong teams.
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ **Tech Stack**
 
-> Tools I use to build, test, and ship web applications.
+> Technologies I use as a **Full Stack Developer**
 
-### 🖼️ Frontend
+### 🖼️ Frontend Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -96,7 +103,7 @@ If you ask me what I am building toward, the answer is straightforward: I want t
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-### 🛠️ Backend & APIs
+### 🛠️ Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -106,14 +113,14 @@ If you ask me what I am building toward, the answer is straightforward: I want t
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-### 🗄️ Databases & ORM
+### 🗄️ Database Technologies
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-### 🚀 DevOps, Tools & Design
+### 🚀 Tools & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -122,35 +129,70 @@ If you ask me what I am building toward, the answer is straightforward: I want t
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🎯 What I'm Working On
+## 🎯 **What I’m Working On**
 
-| Area | Focus |
+| Area | Current Focus |
 |---|---|
-| 🔨 **Side Projects** | Building useful full-stack apps, not just demo projects |
-| 🧠 **DSA & Problem Solving** | Practicing regularly to improve speed and reasoning |
-| 🌐 **Backend Work** | REST APIs, auth, validation, and real-time features |
-| 📦 **DevOps Basics** | Docker, deployment flow, and cleaner development habits |
-| 🎨 **UI Thinking** | Turning ideas into clean and simple interfaces |
+| 🔨 Full Stack Projects | Building practical apps |
+| 🧠 DSA | Daily consistency & logic building |
+| 🌐 Backend | APIs, auth, architecture |
+| 📦 DevOps | Docker, deployment basics |
+| 🎨 Frontend | Clean responsive UI |
+| 🤝 Leadership | Communication & ownership |
 
 ---
 
-## 🧠 Beyond the Code
+## 🧠 **Professional Strengths**
 
-I care about more than syntax. Good engineers are usually the ones who stay calm, communicate well, and keep moving when things get messy.
+<table width="100%">
+<tr>
 
-- I like solving problems in a structured way
-- I pay attention to details because small mistakes create big problems later
-- I work better when expectations are clear
-- I value honesty in code, in communication, and in deadlines
-- I am comfortable leading when needed and stepping back when someone else has the better answer
+<td width="33%" valign="top">
+
+### 👑 **Leadership Skills**
+
+- Leading by example  
+- Taking responsibility  
+- Keeping teams focused  
+- Strong communication  
+- Reliable under deadlines  
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚡ **Personality Strengths**
+
+- Disciplined  
+- Confident  
+- Calm thinker  
+- Competitive mindset  
+- Fast learner  
+- Growth oriented  
+
+</td>
+
+<td width="33%" valign="top">
+
+### 💻 **Engineering Strengths**
+
+- Clean code mindset  
+- Full stack ownership  
+- Problem solving ability  
+- Attention to detail  
+- Real world learning attitude  
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 **GitHub Stats & Activity**
 
 <div align="center">
 
@@ -174,7 +216,7 @@ I care about more than syntax. Good engineers are usually the ones who stay calm
 
 ---
 
-## 🏆 LeetCode Progress
+## 🏆 **LeetCode Profile**
 
 <div align="center">
 
@@ -184,13 +226,11 @@ I care about more than syntax. Good engineers are usually the ones who stay calm
 
 ---
 
-## 📬 Let's Connect
-
-> I am open to internships, open source work, and serious conversations about building better products.
+## 📬 **Connect With Me**
 
 <div align="center">
 
-| Platform | Link |
+| Platform | Profile |
 |---|---|
 | 💼 LinkedIn | [linkedin.com/in/garvitsingh171](https://www.linkedin.com/in/garvitsingh171) |
 | 🐙 GitHub | [github.com/garvitsingh171](https://github.com/garvitsingh171) |
@@ -208,8 +248,7 @@ I care about more than syntax. Good engineers are usually the ones who stay calm
 </div>
 
 <!-- 
-  SEO Tags: Garvit Singh, Full Stack Developer India, React Developer Jaipur, Node.js Developer, 
-  JECRC University CSE, Kalvium Student, Software Product Engineer, JavaScript Developer,
-  Open to Internship, MongoDB PostgreSQL Developer, Docker GitHub Actions, TypeScript Developer,
-  LeetCode DSA, Web Developer Rajasthan, MERN Stack Developer, Express.js Developer India
+  SEO Tags: Full Stack Developer India, React Developer Jaipur, Node.js Developer India, MERN Stack Developer India, 
+  JavaScript Developer Rajasthan, Software Engineer Student India, JECRC University CSE, Kalvium Student Developer,
+  Open to Internship, Web Developer India, Backend Developer India, Frontend Developer India
 -->
